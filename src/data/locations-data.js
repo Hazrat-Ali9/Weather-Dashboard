@@ -348,3 +348,5 @@ function getLocationByName(location) {
 }
 
 export { getLocation, getLocationByName };
+
+// Data Collection
