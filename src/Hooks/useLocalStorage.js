@@ -14,3 +14,4 @@ const useLocalStorage =(storageKey,defaultValue) =>{
 }
 
 export default useLocalStorage;
+// local storage 
